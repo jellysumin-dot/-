@@ -396,4 +396,3 @@ draw();
 """
 
 components.html(game, height=600, scrolling=False)
-```
